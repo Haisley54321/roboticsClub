@@ -1,5 +1,5 @@
 //Must install the servo library first. I can help if you have questions. I can also teach you how to make it not loop, and set it to custom degrees.
-
+//Connect gnd(black)-gnd  PWR(red)-5v Signal(white)-pin 9
 #include <Servo.h>
 
 Servo myservo;  // create servo object to control a servo
